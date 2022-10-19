@@ -1,6 +1,7 @@
 <h2> Hi, I'm James 👋</h2>
 
 <p>Studying at <a href="http://hau.edu.vn"> Hanoi Architectural University 🎓</a>
+</br>Flutter Developer | Machine Learning Enthusiast</a>
 
 ```python
   chromicle =	{
