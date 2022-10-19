@@ -3,6 +3,7 @@
 <p>Studying at <a href="http://hau.edu.vn"> Hanoi Architectural University 🎓</a>
 </br>Flutter Developer | Machine Learning Enthusiast</a>
 
+### :octocat: A little more about me...  
 ```python
   chromicle =	{
     'code': ['Dart', 'Java', 'Python', 'C++', 'PHP'],
