@@ -1,6 +1,6 @@
 <h2> Hi, I'm James 👋</h2>
 
-```javascript
+```python
 - 👋 Hi, I’m @james1507
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
