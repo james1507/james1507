@@ -6,9 +6,9 @@
 ### :octocat: A little more about me...  
 ```python
   chromicle =	{
-    'code': ['Dart', 'Java', 'Python', 'C++', 'PHP'],
-    'currently_learning': ['Flutter App', 'Restful API', 'Machine Learning', 'Recommendation System'],
-    'what_I_am_doing': ['Develop flutter application. Research on machine learning and recommendation systems'],
+    'code': ['Dart', 'Java', 'Python', 'C++', 'PHP', 'JavaScript'],
+    'currently_learning': ['Flutter', 'Machine Learning', 'Recommendation System'],
+    'what_I_am_doing': ['Develop Flutter application. Research on machine learning and recommendation systems'],
     'pronouns': 'He | Him | His'
   }
 ```
