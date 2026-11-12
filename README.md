@@ -105,6 +105,6 @@ My engineering mindset is simple: **design for failure, verify behavior with tes
 
 ---
 
-## 09 / Connect
+## 08 / Connect
 
 If you're interested in software engineering, mobile development, backend systems, or reliable product design, feel free to explore my repositories.
