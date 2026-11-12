@@ -8,12 +8,6 @@
   I build reliable software across Flutter, web, and backend systems.
 </p>
 
-<p align="center">
-  <a href="https://github.com/james1507?tab=repositories">Repositories</a> •
-  <a href="https://github.com/james1507/fullstack-banking-platform">Banking Platform</a> •
-  <a href="https://github.com/james1507/swe-rl-debugging-benchmark">Debugging Benchmark</a>
-</p>
-
 ---
 
 ## 01 / About
