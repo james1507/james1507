@@ -1,4 +1,4 @@
-<h1 align="center">An Nguyen</h1>
+<h1 align="center">An (James) Nguyen Van</h1>
 <p align="center">
   <b>Software Engineer</b><br/>
   Mobile engineering • Backend systems • Reliability
