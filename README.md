@@ -105,15 +105,6 @@ My engineering mindset is simple: **design for failure, verify behavior with tes
 
 ---
 
-## 08 / GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=james1507&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james1507&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 09 / Connect
 
 If you're interested in software engineering, mobile development, backend systems, or reliable product design, feel free to explore my repositories.
